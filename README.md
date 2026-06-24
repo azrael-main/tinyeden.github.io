@@ -1,0 +1,2 @@
+# tinyeden.github.io
+*
